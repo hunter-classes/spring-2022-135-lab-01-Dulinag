@@ -1,10 +1,10 @@
 * Spring 2022 - Lab 01
 
-* Last name: 
+* Last name: Gunasekera 
 
-* First name: 
+* First name: Dulina
 
-* GitHub username: 
+* GitHub username: Dulinag
 
 * Notes:
 
