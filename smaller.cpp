@@ -5,11 +5,11 @@ using namespace std;
 int main(){
 
 int a;
-cout << "type a number: ";
+cout << "Enter First Number: ";
 cin >> a;
 
 int b;
-cout << "type a second number: ";
+cout << "Enter a Second Number: ";
 cin >> b;
 
 if (a < b){

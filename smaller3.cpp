@@ -4,22 +4,22 @@ using namespace std;
 int main(){
 
 int x;
-cout << "type a number: ";
+cout << "Enter First Number: ";
 cin >> x;
 
 int y;
-cout << "type a second number: ";
+cout << "Enter Second Number: ";
 cin >> y;
 
 int z;
-cout << "type a third number: ";
+cout << "Enter Third Number: ";
 cin >> z;
 
 if (x < y && x < z){
   
   cout << "the smallest number is " << x << "\n";
 }
-if (y < x && y < z) {
+else if (y < x && y < z) {
   
   cout << "the smallest number is " << y << "\n";
 }

@@ -12,15 +12,15 @@ if(g % 4 != 0){
   cout<< "common year" <<"\n";
 }
 
-if(g % 100 != 0){
+else if(g % 100 != 0){
   cout<< "leap year" <<"\n";
 }
   
-if(g % 400 != 0){
+else if(g % 400 != 0){
   cout<< "common year" <<"\n";
 }
   
-else{
+else {
   cout<< "leap year" <<"\n";
 }
 
